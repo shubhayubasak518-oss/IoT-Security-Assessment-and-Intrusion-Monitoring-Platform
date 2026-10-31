@@ -1,0 +1,2 @@
+# IoT-Security-Assessment-and-Intrusion-Monitoring-Platform
+IoT Sentinel – IoT Security Assessment & Intrusion Monitoring Platform: A Python-based software-only platform that simulates IoT devices using MQTT, audits broker security configurations, and detects suspicious device activity through rule-based anomaly detection. Features an interactive Streamlit dashboard, SQLite data storage, and automated security reporting to identify vulnerabilities and improve IoT network security.
